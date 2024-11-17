@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Data Wrangling and Visualization"
+		},
+		{
+			"path": "../AI and Machine Learning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Data Wrangling and Visualization"
+	}
+}

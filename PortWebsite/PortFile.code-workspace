@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Data Wrangling and Visualization"
+		},
+		{
+			"path": "../Week 1 Hands On Assignment - Plotly Challenge"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Data Wrangling and Visualization"
+	}
+}
